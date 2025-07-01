@@ -12,10 +12,6 @@ El dataset contiene una columna "rating" que almacena la clasificación ESRB de 
 Instrucciones para completar el proyecto
 Paso 1. Abre el archivo de datos y estudia la información general 
 
-Ruta de archivo:
-
-/datasets/games.csv . Descarga el dataset
-
 Paso 2. Prepara los datos
 
 Reemplaza los nombres de las columnas (ponlos en minúsculas).
